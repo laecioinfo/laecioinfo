@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "titulo": "Hamnburguer",
+      "descricao": "Pão, carne artesanal, baco, ovo, queijo suiço",
+      "photo": "https://thumbs.dreamstime.com/b/hamburguer-suculento-da-carne-em-um-fundo-branco-119665067.jpg"
+    },
+    {
+      "id": 1,
+      "titulo": "Pizza de calabresa",
+      "descricao": "Massa bolanhesa, calabresa supreme, queijo, celosa, oregano, molho de tomate",
+      "photo": "https://t2.rg.ltmcdn.com/pt/posts/9/8/3/pizza_calabresa_e_mussarela_4389_600.jpg"
+    },
+    {
+      "id": 2,
+      "titulo": "Misto quente",
+      "descricao": "Pão integral, queijo, presunto",
+      "photo": "https://www.schaer.com/sites/default/files/styles/landscape_xxl/public/2016-12/1550_Misto%20quente%20com%20Pan%20Blanco_1.jpg"
+    },
+    {
+      "id": 3,
+      "titulo": "Pizza de marguerita",
+      "descricao": "muçarela, azeite, manjericão, molho de tomate, queijo, oregano",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFk7uWvPaP57ket2Hm9IbnYCl_rJFNTJQZ5A&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "titulo": "hamburguer gourmet",
+      "descricao": "Pão, carne artesanal, ovo, queijo suiço, salada, queijo cheddar,bacon, salada",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjf0WAH4EVYItlrSS5-wbjyHQTQ3iQ3BPOFg&usqp=CAU"
+    }
+  ]
+}
