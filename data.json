@@ -1,9 +1,10 @@
 {
   "data": [
-    {"id":0, 
+    {
+      "id":0, 
           "titulo":"Teoria Geral da Administração",
           "descricao":"      O principal mérito de Teoria Geral da Administração é expor os princípios de administração e suas tendências de forma didática e objetiva, o que torna mais fácil a assimilação da matéria. Dentre tantos temas relevantes, a obra apresenta as funções e as habilidades do administrador; as melhores formas de comunicação, de motivação dos subordinados e de liderança; a escolha adequada do estilo gerencial e o que se espera de um administrador do século XXI.", 
-          "photo": "https://a-static.mlcdn.com.br/800x560/livro-teoria-geral-da-administracao/livrariamartinsfontespaulista/604733/527c442de0fd7e1e89bb3b9096564bff.jpg",
+          "photo": "https://a-static.mlcdn.com.br/800x560/livro-teoria-geral-da-administracao/livrariamartinsfontespaulista/604733/527c442de0fd7e1e89bb3b9096564bff.jpg"
           },
 
           {"id":1,
